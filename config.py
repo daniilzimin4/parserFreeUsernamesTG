@@ -1,0 +1,2 @@
+configID = 'numbers'
+configHASH = 'smth'
